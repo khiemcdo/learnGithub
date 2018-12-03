@@ -1,1 +1,2 @@
 #SSH communication based on password
+newline 2
